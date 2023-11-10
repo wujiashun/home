@@ -9,7 +9,7 @@
             -
           </span>
           {{ fullYear }}
-          <a :href="yuchen.com">{{ siteAnthor }}</a>
+          <a :href="siteUrl">{{ siteAnthor }}</a>
         </span>
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
